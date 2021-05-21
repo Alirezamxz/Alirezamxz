@@ -19,8 +19,6 @@ I’m a Front End Developer experienced in building responsive, accessible websi
 
 <img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/sass-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/react-original.svg" height="auto" width="40">
-
 <img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/html5-original.svg" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/Alirezamxz/Alirezamxz/master/assests/bootstrap-plain.svg" height="auto" width="40">
