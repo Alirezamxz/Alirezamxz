@@ -30,12 +30,11 @@ I’m a Front End Developer experienced in building responsive, accessible websi
 
 ### :nerd_face: I'm currently learning:
 
-- Tailwind CSS
+- TypeScript
 
 ### :thinking: I want to learn:
 
 - Next.js
-- TypeScript
 
 ### Outside of coding I enjoy:
 
