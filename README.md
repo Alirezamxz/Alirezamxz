@@ -30,11 +30,7 @@ I’m a Front End Developer experienced in building responsive, accessible websi
 
 ### :nerd_face: I'm currently learning:
 
-- TypeScript
-
-### :thinking: I want to learn:
-
-- Next.js
+- Svelte
 
 ### Outside of coding I enjoy:
 
